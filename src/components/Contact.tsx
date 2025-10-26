@@ -39,15 +39,15 @@ const Contact = () => {
             
             <div className="space-y-4">
               <a 
-                href="mailto:john.doe@example.com" 
+                href="mailto:karthik.kandhimalla123@gmail.com" 
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors group"
               >
                 <Mail className="w-5 h-5" />
-                <span className="group-hover:underline">john.doe@example.com</span>
+                <span className="group-hover:underline">karthik,kandhimalla123@gmail.com</span>
               </a>
               
               <a 
-                href="https://linkedin.com" 
+                href="linkedin.com/in/sai-karthik-b1955a228" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors group"
