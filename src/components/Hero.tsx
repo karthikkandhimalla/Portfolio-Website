@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
         <div className="space-y-4">
           <h1 className="text-5xl md:text-7xl font-bold text-foreground tracking-tight">
-            John Doe
+            Kandhimalla Sai Karthik
           </h1>
           <p className="text-2xl md:text-3xl text-muted-foreground font-light">
             Full Stack Developer & Designer
