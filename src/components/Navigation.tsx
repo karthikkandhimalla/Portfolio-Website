@@ -37,7 +37,11 @@ const Navigation = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border shadow-soft">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
+<<<<<<< HEAD
           <span className="text-xl font-bold text-foreground">JD</span>
+=======
+          <span className="text-xl font-bold text-foreground">SK</span>
+>>>>>>> 9a81297 (chore: replace JD with SK in navigation)
           
           <div className="hidden md:flex gap-8">
             {navItems.map((item) => (
